@@ -1,0 +1,24 @@
+
+body{
+    background-color: #f6f2eb;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.about{
+    background-color: #741d16;
+}
+
+.jumbotron{
+    background-color: #f6f2eb;
+}
+
+.jumbotronImage{
+    border: 5px solid #ffffff;
+    /* max-width:500px; */
+}
+
+.navbar-brand img{
+    height: 60px;
+}
+
+/* 741d16 burgundy */
