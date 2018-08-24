@@ -1,24 +1,45 @@
 
 body{
-    background-color: #f6f2eb;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    background-color: #e9e3d8;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.navTop{
+    background-color:#f7f5f1;
 }
 
 .about{
     background-color: #741d16;
 }
+/* 
+.homeDiv{
+    background-color: #f6f2eb;
+} */
+
+.greenText{
+    color:#5a7a73;
+}
 
 .jumbotron{
-    background-color: #f6f2eb;
+    background-color:transparent;
 }
 
 .jumbotronImage{
-    border: 5px solid #ffffff;
-    /* max-width:500px; */
+    border: 6px solid #f7f5f1;
+    /* max-width:600px; */
 }
 
 .navbar-brand img{
     height: 60px;
 }
 
+.aboutText{
+    color: #e9e3d8;
+}
+
+.projectsContainer{
+    background-color: #f7f5f1;
+}
+
 /* 741d16 burgundy */
+/* f6f2eb original tan */
