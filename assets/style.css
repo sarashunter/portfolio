@@ -13,6 +13,11 @@ body{
 .contact{
     background-color: #212529;
     color: #f7f5f1;
+    text-align:center;
+}
+
+a{
+    color:#16a2b8;
 }
 
 .navTop{
@@ -38,6 +43,14 @@ body{
 .jumbotronImage{
     border: 6px solid #f7f5f1;
     /* max-width:600px; */
+}
+
+li{
+    list-style: none;
+}
+
+.icon{
+    font-size:3em;
 }
 
 .navbar-brand img{
