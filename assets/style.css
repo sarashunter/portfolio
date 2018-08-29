@@ -20,6 +20,10 @@ a{
     color:#16a2b8;
 }
 
+a:hover, a:active{
+    color:#f7f5f1;
+}
+
 .navTop{
     background-color:#f7f5f1;
 }
