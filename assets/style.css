@@ -6,12 +6,12 @@ body{
 }
 
 .section{
-    padding:8rem 2rem;
+    padding:2rem 2rem;
     width: 100%;
 }
 
 .nav-link{
-    font-weight:bold;
+    /* font-weight:bold; */
 }
 
 .contact{
@@ -34,7 +34,7 @@ a:hover, a:active{
 
 h2{
     color: #741d16;
-    font-weight: bold;
+    /* font-weight: bold; */
     text-align: center;
 }
 .about{
