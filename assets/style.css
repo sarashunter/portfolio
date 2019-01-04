@@ -5,14 +5,12 @@ body{
     font-family: Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
 }
 
+
 .section{
-    padding:2rem 2rem;
+    padding:6rem 2rem;
     width: 100%;
 }
 
-.nav-link{
-    /* font-weight:bold; */
-}
 
 .contact{
     background-color: #212529;
@@ -34,19 +32,10 @@ a:hover, a:active{
 
 h2{
     color: #741d16;
-    /* font-weight: bold; */
     text-align: center;
 }
 .about{
     background-color: #ffffff;
-}
-/* 
-.homeDiv{
-    background-color: #f6f2eb;
-} */
-
-.greenText{
-    color:#5a7a73;
 }
 
 .jumbotron{
@@ -77,7 +66,3 @@ li{
 .card{
     margin-top:10%;
 }
-
-
-/* 741d16 burgundy */
-/* f6f2eb original tan */
